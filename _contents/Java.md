@@ -23,7 +23,7 @@ tags: [Java]
 ## Beginner's Guides
 * [Data Flair: Operators & Java Program Structure](https://data-flair.training/blogs/basic-java-syntax/) - This guide is useful for learning basic Java syntax and how the language functions.
 
-* []() - 
+* [Udemy: Java Tutorial for Complete Beginners](https://www.udemy.com/course/java-tutorial/) - Online free course teaching Java for aspiring programmers starting from the beginning.
 
 * []() - 
 
